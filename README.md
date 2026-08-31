@@ -22,8 +22,12 @@
 ## Currently Wanting To Learn
 
 [![Pascal](https://img.shields.io/badge/Pascal-E3F171?style=flat-square&logo=pascal&logoColor=black )](https://www.freepascal.org/ )
+## Pc Specs
+
 
 <a href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-9-5900x&gpu=nvidia-geforce-rtx-5060-ti&memory=16384"><img src="https://cdn.pcgamebenchmark.com/signature/amd-ryzen-9-5900x/16/nvidia-geforce-rtx-5060-ti/small.png" alt="PCGameBenchmark Signature"></a>
+
+
 
 
 <img width="480" height="320" alt="electric gif" src="https://github.com/user-attachments/assets/db5f1beb-3973-4a8c-9362-c0a904675b96" />
