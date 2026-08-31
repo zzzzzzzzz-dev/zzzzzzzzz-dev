@@ -19,14 +19,16 @@
 [![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white )](https://dotnet.microsoft.com/en-us/languages/csharp )
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black )](https://en.cppreference.com/w/c.html )
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white )](https://www.lua.org/ )
-[![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=luau&logoColor=white )](https://github.com/luau-lang/luau )
+
 
 ## Currently Wanting To Learn
 
 [![Pascal](https://img.shields.io/badge/Pascal-E3F171?style=flat-square&logo=pascal&logoColor=black )](https://www.freepascal.org/ )
+
+## currently learning
+[![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=luau&logoColor=white )](https://github.com/luau-lang/luau )
+
 ## Pc Specs
-
-
 <a href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-9-5900x&gpu=nvidia-geforce-rtx-5060-ti&memory=16384"><img src="https://cdn.pcgamebenchmark.com/signature/amd-ryzen-9-5900x/16/nvidia-geforce-rtx-5060-ti/small.png" alt="PCGameBenchmark Signature"></a>
 
 
