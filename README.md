@@ -24,11 +24,5 @@
 [![Pascal](https://img.shields.io/badge/Pascal-E3F171?style=flat-square&logo=pascal&logoColor=black )](https://www.freepascal.org/ )
 
 
-<div align="center">
-
-<img src="./misaka-mikoto.gif" alt="Misaka Mikoto GIF" width="500">
-
-</div>
-
-
+<img width="480" height="320" alt="electric gif" src="https://github.com/user-attachments/assets/db5f1beb-3973-4a8c-9362-c0a904675b96" />
 
