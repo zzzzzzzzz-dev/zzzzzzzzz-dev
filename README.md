@@ -28,6 +28,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zzzzzzzz-dev/assets/main/electric.gif" alt="Electric GIF" width="500">
+<img width="480" height="320" alt="electric gif" src="https://github.com/user-attachments/assets/7b35d920-f058-42f5-a593-a875696c7eb8" />
+
 
 </div>
