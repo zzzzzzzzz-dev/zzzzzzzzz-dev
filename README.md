@@ -17,7 +17,6 @@
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white )](https://www.rust-lang.org/ )
 [![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white )](https://isocpp.org/ )
 [![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white )](https://dotnet.microsoft.com/en-us/languages/csharp )
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black )](https://en.cppreference.com/w/c.html )
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white )](https://www.lua.org/ )
 
 
