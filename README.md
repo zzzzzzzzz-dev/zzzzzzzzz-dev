@@ -12,7 +12,7 @@
 
 ## Languages I Know
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black )](https://developer.mozilla.org/en-US/docs/Web/JavaScript )
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white )](https://www.python.org/ )
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white )](https://www.rust-lang.org/ )
 [![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white )](https://isocpp.org/ )
