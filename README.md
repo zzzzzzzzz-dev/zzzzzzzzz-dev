@@ -26,6 +26,9 @@
 
 ## currently learning
 [![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=luau&logoColor=white )](https://github.com/luau-lang/luau )
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white )](https://github.com/ruby/ruby )
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white )](https://github.com/whatwg/html )
+
 
 ## Pc Specs
 <a href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-9-5900x&gpu=nvidia-geforce-rtx-5060-ti&memory=16384"><img src="https://cdn.pcgamebenchmark.com/signature/amd-ryzen-9-5900x/16/nvidia-geforce-rtx-5060-ti/small.png" alt="PCGameBenchmark Signature"></a>
