@@ -22,7 +22,6 @@
 
 
 ## currently learning
-[![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=luau&logoColor=white )](https://github.com/luau-lang/luau )
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white )](https://github.com/ruby/ruby )
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white )](https://github.com/whatwg/html )
 
