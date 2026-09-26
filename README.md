@@ -20,9 +20,6 @@
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white )](https://www.lua.org/ )
 
 
-## Currently Wanting To Learn
-
-[![Pascal](https://img.shields.io/badge/Pascal-E3F171?style=flat-square&logo=pascal&logoColor=black )](https://www.freepascal.org/ )
 
 ## currently learning
 [![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=luau&logoColor=white )](https://github.com/luau-lang/luau )
