@@ -21,5 +21,5 @@ i dont do much of anything anymore
 
 
 ## Pc Specs
-<a href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-9-5900x&gpu=nvidia-geforce-rtx-5060-ti&memory=16384"><img src="https://cdn.pcgamebenchmark.com/signature/amd-ryzen-9-5900x/16/nvidia-geforce-rtx-5060-ti/small.png" alt="PCGameBenchmark Signature"></a>
+<a href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-9-5900x&gpu=nvidia-geforce-rtx-5060-ti&memory=16384"><img src="https://cdn.pcgamebenchmark.com/signature/amd-ryzen-9-5900x/64/nvidia-geforce-rtx-5060-ti/small.png" alt="PCGameBenchmark Signature"></a>
 
